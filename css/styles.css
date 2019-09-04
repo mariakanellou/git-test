@@ -1,0 +1,19 @@
+body {
+    color: rgb(0, 153, 255);
+    font-family: arial;
+    margin: 0px;
+}
+
+div {
+    background-color: rgb(220, 221, 132);
+    border: solid 10px rgb(214, 138, 138);
+}
+
+#second-li {
+    font-size: 30px;
+}
+
+img {
+    width: 230px;
+    border-radius: 50px;
+}
